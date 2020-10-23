@@ -10,7 +10,7 @@ library(grid)
 library(gridExtra)
 library(dplyr)
 
-setwd("C:\\Users\\nishi\\source\\repos\\Project_MSIS5223")
+setwd("location")
 getwd()
 
 
